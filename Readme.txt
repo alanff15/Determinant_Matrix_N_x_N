@@ -1,3 +1,7 @@
+C/C++
+
+Determinante
+
 EN: Function to calculate the determinant of an N by N matrix light and fast.
 Theorems of Jacobi and Laplace are used to transform input matrix into an upper triangular and multiply the main diagonal elements.
 The pivot is choosen to be the biggest value in module of that row or column in order to minimize the float point operation truncation error.
